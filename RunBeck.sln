@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunBeck", "RunBeck\RunBeck.csproj", "{F3A80853-4EED-405E-AD74-176BE4348F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunBeck.Test", "RunBeck.Test\RunBeck.Test.csproj", "{253AD236-CEEB-4435-A59B-833CAB25CAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A80853-4EED-405E-AD74-176BE4348F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A80853-4EED-405E-AD74-176BE4348F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A80853-4EED-405E-AD74-176BE4348F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A80853-4EED-405E-AD74-176BE4348F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253AD236-CEEB-4435-A59B-833CAB25CAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253AD236-CEEB-4435-A59B-833CAB25CAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253AD236-CEEB-4435-A59B-833CAB25CAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253AD236-CEEB-4435-A59B-833CAB25CAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0628572A-0747-4EC0-9C97-CF76EDDF36EA}
+	EndGlobalSection
+EndGlobal
